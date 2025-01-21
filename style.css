@@ -1,0 +1,13 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#header,
+.recipe-header {
+    background-color: orange;
+    text-align: center;
+}
+
+.ingredients {
+    font-style: italic;
+}
