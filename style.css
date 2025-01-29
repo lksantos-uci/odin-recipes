@@ -6,6 +6,32 @@ body {
 .recipe-header {
     background-color: orange;
     text-align: center;
+    padding: 24px;
+}
+
+.list {
+    text-align: center;
+    background-color: orange;
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.list-item {
+    padding: 50px;
+    list-style-type: none;
+    display: inline-block;
+    margin: 24px;
+    background-color: white;
+}
+
+.food-image {
+    height: 200px;
+    width: auto;
+    display: block;
+    padding-bottom: 20px;
 }
 
 .ingredients {
